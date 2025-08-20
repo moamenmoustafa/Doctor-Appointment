@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "242018415173",
+    "project_id": "disney-dfa6f",
+    "storage_bucket": "disney-dfa6f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242018415173:android:2cdb0bd370847146dce92c",
+        "android_client_info": {
+          "package_name": "com.example.doctorappointment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMXx_lvDUZeCecsY8cfSUEqFdg1Vr5mk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

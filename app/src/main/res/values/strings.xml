@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Doctor Appointment</string>
+    <string name="get_started">Get Started</string>
+    <string name="exceptinal_care_n_close_yo_you">Exceptinal Care \n Close Yo You</string>
+    <string name="searching">Searching...</string>
+    <string name="how_are_you_today">How Are You Today ?</string>
+    <string name="hi_moamen_moustafa">Hi, Moamen Moustafa</string>
+    <string name="top_doctor">Top Doctor</string>
+    <string name="see_all">See all</string>
+    <string name="see_alls">See all</string>
+    <string name="doctor_specality">Doctor Specality</string>
+    <string name="todo">TODO</string>
+    <string name="title">Title</string>
+</resources>
